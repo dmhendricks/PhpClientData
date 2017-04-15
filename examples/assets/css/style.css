@@ -1,0 +1,46 @@
+/* line 1, ../scss/style.scss */
+body, html { height: 100%; }
+
+/* line 4, ../scss/style.scss */
+body { margin-top: 1.5em; background-color: #fff; background-image: url("../images/moshi-moshi.png"); background-repeat: no-repeat; background-position: right 2em top 4em; height: 100%; }
+
+/* line 13, ../scss/style.scss */
+footer { background-color: rgba(255, 255, 255, 0.9); padding: .5em; border-top: 1px solid #ddd; position: fixed; bottom: 0px; width: 100%; }
+/* line 22, ../scss/style.scss */
+footer .text-left a { color: #0066ff; }
+/* line 24, ../scss/style.scss */
+footer .text-left span.holla a { color: #000; }
+/* line 27, ../scss/style.scss */
+footer .text-left span.holla a:hover { color: #0066ff; }
+/* line 32, ../scss/style.scss */
+footer .text-left .fa { font-size: 1.25em; margin-right: 5px; }
+/* line 37, ../scss/style.scss */
+footer .text-left .fa-minus { color: #ccc; vertical-align: text-top; }
+/* line 42, ../scss/style.scss */
+footer .text-left .fa-heart { color: #ff0000; font-size: 1.4em; vertical-align: middle; padding-left: 2px; }
+/* line 50, ../scss/style.scss */
+footer .text-small { font-size: .9rem; }
+
+/* line 56, ../scss/style.scss */
+hr { border-color: #ddd; }
+
+/* line 60, ../scss/style.scss */
+pre.xdebug-var-dump { min-height: 20px; padding: 1em 2em; margin-bottom: 20px; background-color: #f5f5f5; border: 1px solid #e3e3e3; border-radius: 4px; -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05); margin: 1em 0; display: inline-block; }
+
+/* line 73, ../scss/style.scss */
+code.hljs { padding: 0 1.5em; border-style: ridge; display: inline-block; width: 100%; }
+
+/* line 80, ../scss/style.scss */
+#main { padding-bottom: 3.5em; }
+
+/* line 83, ../scss/style.scss */
+#moshi { width: 128px; height: 128px; position: absolute; top: 3em; right: 2em; }
+
+/* line 91, ../scss/style.scss */
+#result { min-height: 150px; }
+
+/* line 95, ../scss/style.scss */
+.italic { font-style: italic; }
+
+/* line 99, ../scss/style.scss */
+.flag-icon { vertical-align: text-bottom; }

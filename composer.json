@@ -1,0 +1,36 @@
+{
+    "name": "dmhendricks/PhpClientData",
+    "description": "Simple PHP/JavaScript classes that make client-side JavaScript data available to PHP.",
+    "version": "0.1.0",
+    "license": "GPL-2.0",
+    "homepage": "https://www.danhendricks.com",
+    "keywords": [
+            "browser",
+            "os",
+            "platform",
+            "detection",
+            "edge",
+            "mobile",
+            "viewport",
+            "jquery-plugin",
+            "zepto",
+            "retina",
+            "php"
+    ],
+    "authors": [
+        {
+            "name": "Daniel M. Hendricks",
+            "homepage": "https://www.danhendricks.com/",
+            "role": "Contributor"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/dmhendricks/PhpClientData",
+        "docs": "https://github.com/dmhendricks/PhpClientData/blob/master/README.md",
+        "issues": "https://github.com/dmhendricks/PhpClientData/issues"
+    },
+    "files": [
+        "dist",
+        "LICENSE"
+    ]
+}

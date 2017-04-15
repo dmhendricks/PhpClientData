@@ -1,0 +1,79 @@
+body, html {
+  height: 100%; }
+
+body {
+  margin-top: 1.5em;
+  background-color: #fff;
+  background-image: url("../images/moshi-moshi.png");
+  background-repeat: no-repeat;
+  background-position: right 2em top 4em;
+  height: 100%; }
+
+footer {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: .5em;
+  border-top: 1px solid #ddd;
+  position: fixed;
+  bottom: 0px;
+  width: 100%; }
+  footer .text-left a {
+    color: #0066ff; }
+  footer .text-left span.holla a {
+    color: #000; }
+    footer .text-left span.holla a:hover {
+      color: #0066ff; }
+  footer .text-left .fa {
+    font-size: 1.25em;
+    margin-right: 5px; }
+  footer .text-left .fa-minus {
+    color: #ccc;
+    vertical-align: text-top; }
+  footer .text-left .fa-heart {
+    color: #ff0000;
+    font-size: 1.4em;
+    vertical-align: middle;
+    padding-left: 2px; }
+  footer .text-small {
+    font-size: .9rem; }
+
+hr {
+  border-color: #ddd; }
+
+pre.xdebug-var-dump {
+  min-height: 20px;
+  padding: 1em 2em;
+  margin-bottom: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  margin: 1em 0;
+  display: inline-block; }
+
+code.hljs {
+  padding: 0 1.5em;
+  border-style: ridge;
+  display: inline-block;
+  width: 100%; }
+
+#main {
+  padding-bottom: 3.5em; }
+
+#moshi {
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  top: 3em;
+  right: 2em; }
+
+#result {
+  min-height: 150px; }
+
+.italic {
+  font-style: italic; }
+
+.flag-icon {
+  vertical-align: text-bottom; }
+
+/*# sourceMappingURL=style.css.map */
